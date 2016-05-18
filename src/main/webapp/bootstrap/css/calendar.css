@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+.rich-calendar-header {
+	panelBorderColor: #87CEFA;
+}
+
+.rf-cal-monthpicker-cnt{
+	tableBackgroundColor: #ADD8E6;
+}
